@@ -1,0 +1,5 @@
+sudo apt update
+sudo apt install gcc libcrypt-dev openssl unzip -y
+chmod +x installer/install.sh
+chmod +x uninstall.sh
+sudo ./installer/install.sh
