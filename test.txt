@@ -3,3 +3,9 @@ sudo apt install gcc libcrypt-dev openssl unzip -y
 chmod +x installer/install.sh
 chmod +x uninstall.sh
 sudo ./installer/install.sh
+==================
+unzip KADER-Secure-Bash-v2.0-GUI.zip
+cd KADER-Secure-Bash-updated
+sudo ./installer/install.sh
+sudo kader-secure-bash-ui
+============
